@@ -12,6 +12,7 @@ const OuterFrameOne = styled.div`
 	border-radius: 30px;
 	padding: 1px;
 	position: relative;
+	box-shadow: 0px 0px 11px 1px #00000090;
 `;
 
 const OuterFrameTwo = styled.div`
